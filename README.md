@@ -207,3 +207,9 @@ Maksimal SKS berikutnya = 20 SKS
 Mata kuliah **Sistem Operasi** memperoleh nilai 55 dengan bobot 1.0 sehingga memiliki status **MENGULANG** dan ditampilkan dengan penanda warna merah.
 
 ---
+
+## Preview
+
+<p align="center">
+  <img src="preview.png" alt="Preview" width="800">
+</p
