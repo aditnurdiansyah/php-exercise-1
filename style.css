@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f6f8;
+    padding: 40px;
+}
+
+.container {
+    max-width: 900px;
+    margin: auto;
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    padding: 12px;
+    border: 1px solid #ddd;
+    text-align: center;
+}
+
+th {
+    background-color: #2563eb;
+    color: white;
+}
+
+td:nth-child(2) {
+    text-align: left;
+}
+
+.mengulang {
+    background-color: #ffcccc;
+    color: #b00000;
+}
+
+.ringkasan {
+    margin-top: 25px;
+    padding: 20px;
+    background-color: #f1f5f9;
+    border-radius: 8px;
+}
+
+.ringkasan h2 {
+    margin-top: 0;
+}
+
+.ringkasan p {
+    margin: 8px 0;
+}
